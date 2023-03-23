@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "941505069714",
+    "project_id": "binarybrains-ff5a2",
+    "storage_bucket": "binarybrains-ff5a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941505069714:android:258d3379921010a3909c4b",
+        "android_client_info": {
+          "package_name": "com.example.binary_brains"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941505069714-1nn4441lvtlupjhv3dscdfe6gtaempdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLOApFG_ueULrvqf1gjLNHec4NAaWs2_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941505069714-1nn4441lvtlupjhv3dscdfe6gtaempdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
