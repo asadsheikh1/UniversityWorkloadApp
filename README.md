@@ -1,4 +1,4 @@
-# binary_brains
+# Binary Brains
 
 A new Flutter project.
 
